@@ -21,7 +21,13 @@ function App() {
           "text": "working at company",
           "day": "Feb 6th at 1:30pm",
           "reminder": false
-      }
+      },
+      {
+        "id": 4,
+        "text": "working at company",
+        "day": "Feb 6th at 1:30pm",
+        "reminder": true
+    }
 ])
 
 // Delete Task
